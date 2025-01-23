@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 20px;
+        }
+        .disclaimer {
+            background-color: #fff4e5;
+            color: #555;
+            border: 1px solid #ffa500;
+            border-radius: 5px;
+            padding: 15px;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .disclaimer strong {
+            color: #d35400;
+        }
+    </style>
+</head>
+<body>
+    <div class="disclaimer">
+        <p>
+            <strong>DISCLAIMER:</strong> The premium bots may be affected by server status, new update rushes, Epic Games errors, or other issues out of our control. Purchase at your own risk!
+        </p>
+    </div>
+</body>
+</html>
